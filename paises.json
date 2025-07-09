@@ -1,0 +1,148 @@
+{
+  "SudamericaCensos": [
+    {
+      "pais": "Argentina",
+      "censos": [
+        {"anio": 1869, "poblacion": 2000000},
+        {"anio": 1895, "poblacion": 3000000},
+        {"anio": 1914, "poblacion": 7000000},
+        {"anio": 1947, "poblacion": 17000000},
+        {"anio": 1960, "poblacion": 20000000},
+        {"anio": 1970, "poblacion": 23000000},
+        {"anio": 1980, "poblacion": 26000000},
+        {"anio": 1991, "poblacion": 32000000},
+        {"anio": 2001, "poblacion": 36000000},
+        {"anio": 2010, "poblacion": 40000000},
+        {"anio": 2022, "poblacion": 45892285}
+      ]
+    },
+    {
+      "pais": "Bolivia",
+      "censos": [
+        {"anio": 1976, "poblacion": 4613486},
+        {"anio": 1992, "poblacion": 6420792},
+        {"anio": 2001, "poblacion": 8274325},
+        {"anio": 2012, "poblacion": 10027254},
+        {"anio": 2024, "poblacion": 11312620}
+      ]
+    },
+    {
+      "pais": "Brasil",
+      "censos": [
+        {"anio": 1872, "poblacion": 10000000},
+        {"anio": 1900, "poblacion": 17000000},
+        {"anio": 1920, "poblacion": 30000000},
+        {"anio": 1940, "poblacion": 41000000},
+        {"anio": 1950, "poblacion": 52000000},
+        {"anio": 1960, "poblacion": 70000000},
+        {"anio": 1970, "poblacion": 94000000},
+        {"anio": 1980, "poblacion": 121000000},
+        {"anio": 1991, "poblacion": 146000000},
+        {"anio": 2000, "poblacion": 169000000},
+        {"anio": 2010, "poblacion": 190000000},
+        {"anio": 2022, "poblacion": 203062512}
+      ]
+    },
+    {
+      "pais": "Chile",
+      "censos": [
+        {"anio": 1907, "poblacion": 3000000},
+        {"anio": 1920, "poblacion": 4000000},
+        {"anio": 1940, "poblacion": 5000000},
+        {"anio": 1952, "poblacion": 6000000},
+        {"anio": 1960, "poblacion": 7000000},
+        {"anio": 1970, "poblacion": 8000000},
+        {"anio": 1982, "poblacion": 10000000},
+        {"anio": 1992, "poblacion": 13000000},
+        {"anio": 2002, "poblacion": 16000000},
+        {"anio": 2012, "poblacion": 17574003},
+        {"anio": 2024, "poblacion": 18480432}
+      ]
+    },
+    {
+      "pais": "Colombia",
+      "censos": [
+        {"anio": 1938, "poblacion": 9000000},
+        {"anio": 1951, "poblacion": 11000000},
+        {"anio": 1964, "poblacion": 14000000},
+        {"anio": 1973, "poblacion": 17000000},
+        {"anio": 1985, "poblacion": 22000000},
+        {"anio": 1993, "poblacion": 28000000},
+        {"anio": 2005, "poblacion": 35000000},
+        {"anio": 2018, "poblacion": 52216000}
+      ]
+    },
+    {
+      "pais": "Ecuador",
+      "censos": [
+        {"anio": 1950, "poblacion": 3000000},
+        {"anio": 1962, "poblacion": 4000000},
+        {"anio": 1974, "poblacion": 5000000},
+        {"anio": 1982, "poblacion": 6000000},
+        {"anio": 1990, "poblacion": 7000000},
+        {"anio": 2001, "poblacion": 8000000},
+        {"anio": 2010, "poblacion": 9000000},
+        {"anio": 2022, "poblacion": 16938986}
+      ]
+    },
+    {
+      "pais": "Paraguay",
+      "censos": [
+        {"anio": 1950, "poblacion": 1000000},
+        {"anio": 1962, "poblacion": 1500000},
+        {"anio": 1972, "poblacion": 2000000},
+        {"anio": 1982, "poblacion": 2500000},
+        {"anio": 1992, "poblacion": 3000000},
+        {"anio": 2002, "poblacion": 3500000},
+        {"anio": 2012, "poblacion": 4000000},
+        {"anio": 2022, "poblacion": 6109903}
+      ]
+    },
+    {
+      "pais": "Perú",
+      "censos": [
+        {"anio": 1876, "poblacion": 2699000},
+        {"anio": 1940, "poblacion": 7000000},
+        {"anio": 1961, "poblacion": 10000000},
+        {"anio": 1972, "poblacion": 13000000},
+        {"anio": 1981, "poblacion": 16000000},
+        {"anio": 1993, "poblacion": 22000000},
+        {"anio": 2007, "poblacion": 28000000},
+        {"anio": 2017, "poblacion": 34352718}
+      ]
+    },
+
+    {
+      "pais": "Uruguay",
+      "censos": [
+        {"anio": 1908, "poblacion": 1000000},
+        {"anio": 1916, "poblacion": 1200000},
+        {"anio": 1928, "poblacion": 1400000},
+        {"anio": 1938, "poblacion": 1600000},
+        {"anio": 1956, "poblacion": 1800000},
+        {"anio": 1963, "poblacion": 2000000},
+        {"anio": 1975, "poblacion": 2200000},
+        {"anio": 1985, "poblacion": 2400000},
+        {"anio": 1996, "poblacion": 2600000},
+        {"anio": 2004, "poblacion": 3000000},
+        {"anio": 2011, "poblacion": 3200000},
+        {"anio": 2021, "poblacion": 3423108}
+      ]
+    },
+    {
+      "pais": "Venezuela",
+      "censos": [
+        {"anio": 1901, "poblacion": 2000000},
+        {"anio": 1926, "poblacion": 3000000},
+        {"anio": 1941, "poblacion": 4000000},
+        {"anio": 1950, "poblacion": 5000000},
+        {"anio": 1961, "poblacion": 7000000},
+        {"anio": 1971, "poblacion": 10000000},
+        {"anio": 1981, "poblacion": 14000000},
+        {"anio": 1990, "poblacion": 19000000},
+        {"anio": 2001, "poblacion": 24000000},
+        {"anio": 2011, "poblacion": 28838498}
+      ]
+    }
+  ]
+}
